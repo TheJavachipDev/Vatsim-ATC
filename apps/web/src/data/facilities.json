@@ -1,0 +1,2506 @@
+[
+  {
+    "prefix": "ABQ",
+    "name": "Albuquerque Control",
+    "aliases": [
+      "KZAB"
+    ]
+  },
+  {
+    "prefix": "ADR",
+    "name": "Adria Radar Control"
+  },
+  {
+    "prefix": "AFRC",
+    "name": "Africa Central Control"
+  },
+  {
+    "prefix": "AFRE",
+    "name": "East Africa Control"
+  },
+  {
+    "prefix": "AFRN",
+    "name": "North Africa Control"
+  },
+  {
+    "prefix": "AFRS",
+    "name": "Africa South Control"
+  },
+  {
+    "prefix": "AFRW",
+    "name": "Africa West Control"
+  },
+  {
+    "prefix": "AGGG",
+    "name": "Honiara Control"
+  },
+  {
+    "prefix": "ANAU",
+    "name": "Nauru Control"
+  },
+  {
+    "prefix": "ANC",
+    "name": "Anchorage Control"
+  },
+  {
+    "prefix": "ANK",
+    "name": "Ankara Control",
+    "aliases": [
+      "LTXX"
+    ]
+  },
+  {
+    "prefix": "ANT",
+    "name": "Antilles Center"
+  },
+  {
+    "prefix": "ASEA",
+    "name": "South East Asia Control"
+  },
+  {
+    "prefix": "ASIA",
+    "name": "West Asia Control"
+  },
+  {
+    "prefix": "ATL",
+    "name": "Atlanta Control",
+    "aliases": [
+      "KZTL"
+    ]
+  },
+  {
+    "prefix": "AYPM",
+    "name": "Port Moresby Control"
+  },
+  {
+    "prefix": "BAIRES",
+    "name": "Ezeiza Control"
+  },
+  {
+    "prefix": "BALT",
+    "name": "Baltic Control"
+  },
+  {
+    "prefix": "BDA",
+    "name": "Bermuda TMA Control"
+  },
+  {
+    "prefix": "BEN",
+    "name": "Benina Control",
+    "aliases": [
+      "HLLB"
+    ]
+  },
+  {
+    "prefix": "BGGL",
+    "name": "Nuuk Control"
+  },
+  {
+    "prefix": "BICC",
+    "name": "Iceland Radio"
+  },
+  {
+    "prefix": "BIRD",
+    "name": "Reykjavik Control"
+  },
+  {
+    "prefix": "BN-ARA",
+    "name": "Brisbane (Arafura) 133.7* (125.7) Control",
+    "aliases": [
+      "YARA"
+    ]
+  },
+  {
+    "prefix": "BN-ARL",
+    "name": "Brisbane (Armidale) 130.9 Control",
+    "aliases": [
+      "YARL"
+    ]
+  },
+  {
+    "prefix": "BN-ASH",
+    "name": "Brisbane (Ashmore) 133.4* (123.85) Control",
+    "aliases": [
+      "YASH"
+    ]
+  },
+  {
+    "prefix": "BN-BAR",
+    "name": "Brisbane (Barra) 123.8* (120.15) Control",
+    "aliases": [
+      "YBAR"
+    ]
+  },
+  {
+    "prefix": "BN-BUR",
+    "name": "Brisbane (Burnett) 123.0* (134.2) Control",
+    "aliases": [
+      "YBUR"
+    ]
+  },
+  {
+    "prefix": "BN-CNK",
+    "name": "Brisbane (Cessnock) 123.4* (130.9) Control",
+    "aliases": [
+      "YCNK"
+    ]
+  },
+  {
+    "prefix": "BN-COL",
+    "name": "Brisbane Radio (Coral) 133.15* (124.65)",
+    "aliases": [
+      "YCOL"
+    ]
+  },
+  {
+    "prefix": "BN-CVN",
+    "name": "Brisbane (Carnarvon) 133.8* (125.9) Control",
+    "aliases": [
+      "YCVN"
+    ]
+  },
+  {
+    "prefix": "BN-DEN",
+    "name": "Brisbane (Denman) 134.15* (130.9) Control",
+    "aliases": [
+      "YDEN"
+    ]
+  },
+  {
+    "prefix": "BN-DOS",
+    "name": "Brisbane (Downs) 135.6* (134.2) Control",
+    "aliases": [
+      "YDOS"
+    ]
+  },
+  {
+    "prefix": "BN-FLD",
+    "name": "Brisbane Radio (Flinders) 132.85* (124.65)",
+    "aliases": [
+      "YFLD"
+    ]
+  },
+  {
+    "prefix": "BN-GAH",
+    "name": "Brisbane (Gunnedah) 121.15* (130.9) Control",
+    "aliases": [
+      "YGAH"
+    ]
+  },
+  {
+    "prefix": "BN-GOL",
+    "name": "Brisbane (Gold Coast) 130.4* (134.2) Control",
+    "aliases": [
+      "YGOL"
+    ]
+  },
+  {
+    "prefix": "BN-HWE",
+    "name": "Brisbane (Howe) 124.95 Control",
+    "aliases": [
+      "YHWE"
+    ]
+  },
+  {
+    "prefix": "BN-INL",
+    "name": "Brisbane (Inverell) 134.2 Control",
+    "aliases": [
+      "YINL"
+    ]
+  },
+  {
+    "prefix": "BN-ISA",
+    "name": "Brisbane (Isa) 125.7 Control",
+    "aliases": [
+      "YISA"
+    ]
+  },
+  {
+    "prefix": "BN-KEN",
+    "name": "Brisbane (Kennedy) 120.15 Control",
+    "aliases": [
+      "YKEN"
+    ]
+  },
+  {
+    "prefix": "BN-KIY",
+    "name": "Brisbane (Kimberley) 132.1* (123.85) Control",
+    "aliases": [
+      "YKIY"
+    ]
+  },
+  {
+    "prefix": "BN-KPL",
+    "name": "Brisbane (Keppel) 125.9 Control",
+    "aliases": [
+      "YKPL"
+    ]
+  },
+  {
+    "prefix": "BN-LIG",
+    "name": "Brisbane (Lightning) 133.0* (130.9) Control",
+    "aliases": [
+      "YLIG"
+    ]
+  },
+  {
+    "prefix": "BN-MLD",
+    "name": "Brisbane (Maitland) 132.35* (130.1) Control",
+    "aliases": [
+      "YMLD"
+    ]
+  },
+  {
+    "prefix": "BN-MNN",
+    "name": "Brisbane (Manning) 130.1 Control",
+    "aliases": [
+      "YMNN"
+    ]
+  },
+  {
+    "prefix": "BN-MOR",
+    "name": "Brisbane (Moree) 134.85* (130.9) Control",
+    "aliases": [
+      "YMOR"
+    ]
+  },
+  {
+    "prefix": "BN-NSA",
+    "name": "Brisbane (Noosa) 124.1* (134.2) Control",
+    "aliases": [
+      "YNSA"
+    ]
+  },
+  {
+    "prefix": "BN-OCN",
+    "name": "Brisbane (Ocean) 128.6* (130.1) Control",
+    "aliases": [
+      "YOCN"
+    ]
+  },
+  {
+    "prefix": "BN-RYS",
+    "name": "Brisbane (Rylstone) 119.7* (130.9) Control",
+    "aliases": [
+      "YRYS"
+    ]
+  },
+  {
+    "prefix": "BN-SDY",
+    "name": "Brisbane (Straddy) 134.3* (134.2) Control",
+    "aliases": [
+      "YSDY"
+    ]
+  },
+  {
+    "prefix": "BN-STR",
+    "name": "Brisbane (Sturt) 134.4* (125.7) Control",
+    "aliases": [
+      "YSTR"
+    ]
+  },
+  {
+    "prefix": "BN-SWY",
+    "name": "Brisbane (Swampy) 133.2* (125.9) Control",
+    "aliases": [
+      "YSWY"
+    ]
+  },
+  {
+    "prefix": "BN-TBP",
+    "name": "Brisbane (Tabletop) 120.55* (120.15) Control",
+    "aliases": [
+      "YTBP"
+    ]
+  },
+  {
+    "prefix": "BN-TRS",
+    "name": "Brisbane (Territory South) 133.2* (123.85) Control",
+    "aliases": [
+      "YTRS"
+    ]
+  },
+  {
+    "prefix": "BN-TRT",
+    "name": "Brisbane (Territory North) 123.85 Control",
+    "aliases": [
+      "YTRT"
+    ]
+  },
+  {
+    "prefix": "BN-TSN",
+    "name": "Brisbane Radio (Tasman) 124.65",
+    "aliases": [
+      "YTSN"
+    ]
+  },
+  {
+    "prefix": "BN-WEG",
+    "name": "Brisbane (Warrego) 132.45* (125.7) Control",
+    "aliases": [
+      "YWEG"
+    ]
+  },
+  {
+    "prefix": "BN-WIL",
+    "name": "Brisbane (Willis) 127.6* (120.15) Control",
+    "aliases": [
+      "YWIL"
+    ]
+  },
+  {
+    "prefix": "BOS",
+    "name": "Boston Control",
+    "aliases": [
+      "KZBW"
+    ]
+  },
+  {
+    "prefix": "CARE",
+    "name": "Caribbean Control East"
+  },
+  {
+    "prefix": "CARI",
+    "name": "Caribbean Control"
+  },
+  {
+    "prefix": "CARW",
+    "name": "Caribbean Control West"
+  },
+  {
+    "prefix": "CHI",
+    "name": "Chicago Control",
+    "aliases": [
+      "KZAU"
+    ]
+  },
+  {
+    "prefix": "CLE",
+    "name": "Cleveland Control",
+    "aliases": [
+      "KZOB"
+    ]
+  },
+  {
+    "prefix": "CZEG",
+    "name": "Edmonton Control",
+    "aliases": [
+      "EDM",
+      "ZEG"
+    ]
+  },
+  {
+    "prefix": "CZQM",
+    "name": "Moncton Control",
+    "aliases": [
+      "MCN"
+    ]
+  },
+  {
+    "prefix": "CZQO",
+    "name": "Gander Oceanic",
+    "aliases": [
+      "GAN"
+    ]
+  },
+  {
+    "prefix": "CZQO-GOTA",
+    "name": "Gander Oceanic Transition Area (CZQO SFC-280 / CZQX 290-ABV)"
+  },
+  {
+    "prefix": "CZQX",
+    "name": "Gander Control",
+    "aliases": [
+      "YQX"
+    ]
+  },
+  {
+    "prefix": "CZUL",
+    "name": "Montreal Control",
+    "aliases": [
+      "MTL"
+    ]
+  },
+  {
+    "prefix": "CZVR",
+    "name": "Vancouver Control",
+    "aliases": [
+      "VAN"
+    ]
+  },
+  {
+    "prefix": "CZYZ",
+    "name": "Toronto Control",
+    "aliases": [
+      "TOR"
+    ]
+  },
+  {
+    "prefix": "CZZV",
+    "name": "Sept-Iles (CZUL SFC-280 / CZQM 290-ABV) Control"
+  },
+  {
+    "prefix": "DAAA",
+    "name": "Algiers Control"
+  },
+  {
+    "prefix": "DC",
+    "name": "Washington Control",
+    "aliases": [
+      "KZDC"
+    ]
+  },
+  {
+    "prefix": "DEN",
+    "name": "Denver Control",
+    "aliases": [
+      "KZDV"
+    ]
+  },
+  {
+    "prefix": "DGAC",
+    "name": "Accra"
+  },
+  {
+    "prefix": "DGAO",
+    "name": "Accra Oceanic"
+  },
+  {
+    "prefix": "DIII",
+    "name": "Abidjan Control"
+  },
+  {
+    "prefix": "DNKK",
+    "name": "Kano Control"
+  },
+  {
+    "prefix": "DNMM",
+    "name": "Lagos Control"
+  },
+  {
+    "prefix": "DRRR",
+    "name": "Niamey Control"
+  },
+  {
+    "prefix": "DTTC",
+    "name": "Tunis Control"
+  },
+  {
+    "prefix": "EBBU",
+    "name": "Brussels Control"
+  },
+  {
+    "prefix": "EBUR",
+    "name": "Brussels Upper Control"
+  },
+  {
+    "prefix": "EDGG",
+    "name": "Langen Control"
+  },
+  {
+    "prefix": "EDMM",
+    "name": "Muenchen Control"
+  },
+  {
+    "prefix": "EDWW",
+    "name": "Bremen Control"
+  },
+  {
+    "prefix": "EDXX",
+    "name": "FIS only Control"
+  },
+  {
+    "prefix": "EETT",
+    "name": "Tallinn Control"
+  },
+  {
+    "prefix": "EFIN",
+    "name": "Helsinki Control"
+  },
+  {
+    "prefix": "EGGX",
+    "name": "Shanwick Oceanic"
+  },
+  {
+    "prefix": "EGVV",
+    "name": "Swanwick Military Control"
+  },
+  {
+    "prefix": "EHAA",
+    "name": "Amsterdam Control"
+  },
+  {
+    "prefix": "EHMC",
+    "name": "Dutch Mil (Up to FL245) Control"
+  },
+  {
+    "prefix": "EHML",
+    "name": "Bandbox CRC (Military) Control"
+  },
+  {
+    "prefix": "EIDW",
+    "name": "Dublin Control"
+  },
+  {
+    "prefix": "EISN",
+    "name": "Shannon Control"
+  },
+  {
+    "prefix": "EKDK",
+    "name": "Kobenhavn Control"
+  },
+  {
+    "prefix": "ENBD",
+    "name": "Polaris Control"
+  },
+  {
+    "prefix": "ENOB",
+    "name": "Bodo Oceanic"
+  },
+  {
+    "prefix": "ENOR",
+    "name": "Polaris Control"
+  },
+  {
+    "prefix": "ENOS",
+    "name": "Polaris Control"
+  },
+  {
+    "prefix": "ENRC",
+    "name": "Bodo RTC North Control"
+  },
+  {
+    "prefix": "ENSV",
+    "name": "Polaris Control"
+  },
+  {
+    "prefix": "EPWW",
+    "name": "Warszawa Control"
+  },
+  {
+    "prefix": "ESAA",
+    "name": "Sweden Control"
+  },
+  {
+    "prefix": "ESMM",
+    "name": "Sweden Control"
+  },
+  {
+    "prefix": "ESOS",
+    "name": "Sweden Control"
+  },
+  {
+    "prefix": "ESSR",
+    "name": "Sweden Control"
+  },
+  {
+    "prefix": "EUC-EN",
+    "name": "Eurocontrol"
+  },
+  {
+    "prefix": "EUC-ES",
+    "name": "Eurocontrol"
+  },
+  {
+    "prefix": "EUC-ME",
+    "name": "Maastricht Control"
+  },
+  {
+    "prefix": "EUC-MW",
+    "name": "Maastricht Control"
+  },
+  {
+    "prefix": "EUC-SE",
+    "name": "Eurocontrol"
+  },
+  {
+    "prefix": "EUC-SW",
+    "name": "Eurocontrol"
+  },
+  {
+    "prefix": "EUC-WN",
+    "name": "Eurocontrol"
+  },
+  {
+    "prefix": "EUC-WS",
+    "name": "Eurocontrol"
+  },
+  {
+    "prefix": "EURN",
+    "name": "EuroNorth Control"
+  },
+  {
+    "prefix": "EVRR",
+    "name": "Riga Control"
+  },
+  {
+    "prefix": "EYVL",
+    "name": "Vilnius Control"
+  },
+  {
+    "prefix": "EYVL-E",
+    "name": "Vilnius Control"
+  },
+  {
+    "prefix": "FACA",
+    "name": "Cape Town Control"
+  },
+  {
+    "prefix": "FAJA",
+    "name": "Johannesburg Control"
+  },
+  {
+    "prefix": "FAJO",
+    "name": "Johannesburg Oceanic"
+  },
+  {
+    "prefix": "FAMR",
+    "name": "Lowveld Information"
+  },
+  {
+    "prefix": "FASA",
+    "name": "South Africa Control"
+  },
+  {
+    "prefix": "FBGR",
+    "name": "Gaborone Control"
+  },
+  {
+    "prefix": "FCCC",
+    "name": "Brazzaville Control"
+  },
+  {
+    "prefix": "FIMM",
+    "name": "Mauritius Control"
+  },
+  {
+    "prefix": "FLFI",
+    "name": "Lusaka Control"
+  },
+  {
+    "prefix": "FMMM",
+    "name": "Antananarivo Control"
+  },
+  {
+    "prefix": "FNAN",
+    "name": "Luanda Control"
+  },
+  {
+    "prefix": "FQBE",
+    "name": "Beira Control"
+  },
+  {
+    "prefix": "FQMA",
+    "name": "Maputo Control"
+  },
+  {
+    "prefix": "FSSS",
+    "name": "Seychelles Control"
+  },
+  {
+    "prefix": "FTTT",
+    "name": "N'Djamena Control"
+  },
+  {
+    "prefix": "FTW",
+    "name": "Fort Worth Control",
+    "aliases": [
+      "KZFW"
+    ]
+  },
+  {
+    "prefix": "FVHF",
+    "name": "Harare Control"
+  },
+  {
+    "prefix": "FWLL",
+    "name": "Lilongwe Control"
+  },
+  {
+    "prefix": "FYWF",
+    "name": "Windhoek Control"
+  },
+  {
+    "prefix": "FZZA",
+    "name": "Kinshasa Control"
+  },
+  {
+    "prefix": "GAND",
+    "name": "Gander Control"
+  },
+  {
+    "prefix": "GCCC",
+    "name": "Canarias Control"
+  },
+  {
+    "prefix": "GCCO",
+    "name": "Canarias Oceanic"
+  },
+  {
+    "prefix": "GLRB",
+    "name": "Roberts Control"
+  },
+  {
+    "prefix": "GMAC",
+    "name": "Agadir Control"
+  },
+  {
+    "prefix": "GMMM",
+    "name": "Casablanca Control"
+  },
+  {
+    "prefix": "GOOC",
+    "name": "Dakar Oceanic"
+  },
+  {
+    "prefix": "GOOO",
+    "name": "Dakar Control"
+  },
+  {
+    "prefix": "GU",
+    "name": "Guam Control",
+    "aliases": [
+      "PGZU"
+    ]
+  },
+  {
+    "prefix": "GUAM",
+    "name": "Guam Control"
+  },
+  {
+    "prefix": "GULF",
+    "name": "Gulf Control"
+  },
+  {
+    "prefix": "GUM",
+    "name": "Guam Control"
+  },
+  {
+    "prefix": "GVSC",
+    "name": "Sal Oceanic"
+  },
+  {
+    "prefix": "HAAA",
+    "name": "Addis Ababa Control"
+  },
+  {
+    "prefix": "HAGAV",
+    "name": "Hagav Control",
+    "aliases": [
+      "LLGV"
+    ]
+  },
+  {
+    "prefix": "HAV",
+    "name": "Havana Control",
+    "aliases": [
+      "MUFH"
+    ]
+  },
+  {
+    "prefix": "HBBA",
+    "name": "Bujumbura Control"
+  },
+  {
+    "prefix": "HCF",
+    "name": "Honolulu Control"
+  },
+  {
+    "prefix": "HCSM",
+    "name": "Mogadishu Control"
+  },
+  {
+    "prefix": "HECC",
+    "name": "Cairo Control"
+  },
+  {
+    "prefix": "HHAA",
+    "name": "Asmara Control"
+  },
+  {
+    "prefix": "HJJJ",
+    "name": "Juba (Up to FL245) Control"
+  },
+  {
+    "prefix": "HKG",
+    "name": "Hong Kong Control",
+    "aliases": [
+      "VHHK"
+    ]
+  },
+  {
+    "prefix": "HKNA",
+    "name": "Nairobi Control"
+  },
+  {
+    "prefix": "HLLT",
+    "name": "Tripoli Control"
+  },
+  {
+    "prefix": "HNL",
+    "name": "Honolulu Control",
+    "aliases": [
+      "PHZH"
+    ]
+  },
+  {
+    "prefix": "HOU",
+    "name": "Houston Control",
+    "aliases": [
+      "KZHU"
+    ]
+  },
+  {
+    "prefix": "HRYR",
+    "name": "Kigali Control"
+  },
+  {
+    "prefix": "HSSS",
+    "name": "Khartoum Control"
+  },
+  {
+    "prefix": "HTDC",
+    "name": "Dar-Es-Salaam Control"
+  },
+  {
+    "prefix": "HUEC",
+    "name": "Entebbe Control"
+  },
+  {
+    "prefix": "IND",
+    "name": "Indianapolis Control",
+    "aliases": [
+      "KZID"
+    ]
+  },
+  {
+    "prefix": "ISB",
+    "name": "Lahore (Islamabad) Control"
+  },
+  {
+    "prefix": "ISLAND",
+    "name": "Mount Pleasant (Monte Agradable) Control",
+    "aliases": [
+      "EGYP"
+    ]
+  },
+  {
+    "prefix": "JAX",
+    "name": "Jacksonville Control",
+    "aliases": [
+      "KZJX"
+    ]
+  },
+  {
+    "prefix": "KC",
+    "name": "Kansas City Control"
+  },
+  {
+    "prefix": "LA",
+    "name": "Los Angeles Control"
+  },
+  {
+    "prefix": "LAAA",
+    "name": "Tirana Control"
+  },
+  {
+    "prefix": "LAX",
+    "name": "Los Angeles Control",
+    "aliases": [
+      "KZLA"
+    ]
+  },
+  {
+    "prefix": "LBSR",
+    "name": "Sofia Control"
+  },
+  {
+    "prefix": "LCCC",
+    "name": "Nicosia Control"
+  },
+  {
+    "prefix": "LDZO",
+    "name": "Zagreb Control"
+  },
+  {
+    "prefix": "LECB",
+    "name": "Barcelona Control"
+  },
+  {
+    "prefix": "LECL",
+    "name": "Valencia (FL245-) Control"
+  },
+  {
+    "prefix": "LECM",
+    "name": "Madrid Control"
+  },
+  {
+    "prefix": "LECP",
+    "name": "Palma (FL245-) Control"
+  },
+  {
+    "prefix": "LECS",
+    "name": "Sevilla Control"
+  },
+  {
+    "prefix": "LFBB",
+    "name": "Bordeaux Control"
+  },
+  {
+    "prefix": "LFEE",
+    "name": "Reims Control"
+  },
+  {
+    "prefix": "LFMM",
+    "name": "Marseille Control"
+  },
+  {
+    "prefix": "LFRR",
+    "name": "Brest Control"
+  },
+  {
+    "prefix": "LFUP",
+    "name": "France Control"
+  },
+  {
+    "prefix": "LGGG",
+    "name": "Athinai Control"
+  },
+  {
+    "prefix": "LGMD",
+    "name": "Athinai Control"
+  },
+  {
+    "prefix": "LHCC",
+    "name": "Budapest Control"
+  },
+  {
+    "prefix": "LIBB",
+    "name": "Brindisi Control"
+  },
+  {
+    "prefix": "LIM",
+    "name": "Lima Control",
+    "aliases": [
+      "SPIM"
+    ]
+  },
+  {
+    "prefix": "LIMM",
+    "name": "Milano Control"
+  },
+  {
+    "prefix": "LIPP",
+    "name": "Padova Control"
+  },
+  {
+    "prefix": "LIRR",
+    "name": "Roma Control"
+  },
+  {
+    "prefix": "LIUP",
+    "name": "Italy Radar Control"
+  },
+  {
+    "prefix": "LJLA",
+    "name": "Ljubljana Control"
+  },
+  {
+    "prefix": "LKAA",
+    "name": "Praha Control"
+  },
+  {
+    "prefix": "LLSC",
+    "name": "Tel Aviv South Control"
+  },
+  {
+    "prefix": "LLTA",
+    "name": "Tel Aviv Control",
+    "aliases": [
+      "LLLL"
+    ]
+  },
+  {
+    "prefix": "LMMM",
+    "name": "Malta Control"
+  },
+  {
+    "prefix": "LON",
+    "name": "London Control",
+    "aliases": [
+      "EGTT"
+    ]
+  },
+  {
+    "prefix": "LOVV",
+    "name": "Wien Control"
+  },
+  {
+    "prefix": "LPAM",
+    "name": "Lisboa Military Control"
+  },
+  {
+    "prefix": "LPPC",
+    "name": "Lisboa Control"
+  },
+  {
+    "prefix": "LPPO",
+    "name": "Santa Maria Control"
+  },
+  {
+    "prefix": "LQSB",
+    "name": "Sarajevo Control"
+  },
+  {
+    "prefix": "LRBB",
+    "name": "Bucharest Control"
+  },
+  {
+    "prefix": "LSAG",
+    "name": "Switzerland Control"
+  },
+  {
+    "prefix": "LSAS",
+    "name": "Switzerland Control"
+  },
+  {
+    "prefix": "LSAZ",
+    "name": "Switzerland Control"
+  },
+  {
+    "prefix": "LTAA",
+    "name": "Ankara Control"
+  },
+  {
+    "prefix": "LTBB",
+    "name": "Istanbul Control"
+  },
+  {
+    "prefix": "LTC",
+    "name": "London Control",
+    "aliases": [
+      "EGTL"
+    ]
+  },
+  {
+    "prefix": "LUUU",
+    "name": "Chisinau Control"
+  },
+  {
+    "prefix": "LWSS",
+    "name": "Skopje Control"
+  },
+  {
+    "prefix": "LYBA",
+    "name": "Beograd Control"
+  },
+  {
+    "prefix": "LZBB",
+    "name": "Bratislava Control"
+  },
+  {
+    "prefix": "MAN",
+    "name": "London Control",
+    "aliases": [
+      "EGTM"
+    ]
+  },
+  {
+    "prefix": "MCI",
+    "name": "Kansas City Control",
+    "aliases": [
+      "KZKC"
+    ]
+  },
+  {
+    "prefix": "MDCS",
+    "name": "Santo Domingo Control"
+  },
+  {
+    "prefix": "MEM",
+    "name": "Memphis Control",
+    "aliases": [
+      "KZME"
+    ]
+  },
+  {
+    "prefix": "MHCC",
+    "name": "Cenamer Control"
+  },
+  {
+    "prefix": "MIA",
+    "name": "Miami Control",
+    "aliases": [
+      "KZMA"
+    ]
+  },
+  {
+    "prefix": "MID",
+    "name": "Merida Control",
+    "aliases": [
+      "MMID"
+    ]
+  },
+  {
+    "prefix": "MKJK",
+    "name": "Kingston Control"
+  },
+  {
+    "prefix": "ML-ASP",
+    "name": "Melbourne (Alice Springs) 128.85 Control",
+    "aliases": [
+      "YASP"
+    ]
+  },
+  {
+    "prefix": "ML-ASW",
+    "name": "Melbourne (Alice Springs West) 131.8* (128.85) Control",
+    "aliases": [
+      "YASW"
+    ]
+  },
+  {
+    "prefix": "ML-AUG",
+    "name": "Melbourne (Augusta) 127.05* (123.05) Control",
+    "aliases": [
+      "YAUG"
+    ]
+  },
+  {
+    "prefix": "ML-BIK",
+    "name": "Melbourne (Bindook) 129.8* (133.15) Control",
+    "aliases": [
+      "YBIK"
+    ]
+  },
+  {
+    "prefix": "ML-BKE",
+    "name": "Melbourne (Bourke) 128.2* (128.85) Control",
+    "aliases": [
+      "YBKE"
+    ]
+  },
+  {
+    "prefix": "ML-BLA",
+    "name": "Melbourne (Benalla) 132.2 Control",
+    "aliases": [
+      "YBLA"
+    ]
+  },
+  {
+    "prefix": "ML-DAL",
+    "name": "Melbourne (Dally) 124.8* (118.2) Control",
+    "aliases": [
+      "YDAL"
+    ]
+  },
+  {
+    "prefix": "ML-ELW",
+    "name": "Melbourne (Eildon Weir) 123.75* (132.2) Control",
+    "aliases": [
+      "YELW"
+    ]
+  },
+  {
+    "prefix": "ML-ESP",
+    "name": "Melbourne (Esperance) 123.95* (128.85) Control",
+    "aliases": [
+      "YESP"
+    ]
+  },
+  {
+    "prefix": "ML-FOR",
+    "name": "Melbourne (Forrest) 132.7* (128.85) Control",
+    "aliases": [
+      "YFOR"
+    ]
+  },
+  {
+    "prefix": "ML-GEL",
+    "name": "Melbourne (Geraldton) 134.2* (118.2) Control",
+    "aliases": [
+      "YGEL"
+    ]
+  },
+  {
+    "prefix": "ML-GTH",
+    "name": "Melbourne (Griffith) 122.75* (132.6) Control",
+    "aliases": [
+      "YGTH"
+    ]
+  },
+  {
+    "prefix": "ML-GUN",
+    "name": "Melbourne (Gundagai) 133.15 Control",
+    "aliases": [
+      "YGUN"
+    ]
+  },
+  {
+    "prefix": "ML-GVE",
+    "name": "Melbourne (Grove) 133.8* (118.2) Control",
+    "aliases": [
+      "YGVE"
+    ]
+  },
+  {
+    "prefix": "ML-HUO",
+    "name": "Melbourne (Huon) 122.6 Control",
+    "aliases": [
+      "YHUO"
+    ]
+  },
+  {
+    "prefix": "ML-HYD",
+    "name": "Melbourne (Hyden) 118.2 Control",
+    "aliases": [
+      "YHYD"
+    ]
+  },
+  {
+    "prefix": "ML-IND",
+    "name": "Brisbane Radio (Indian) 129.25",
+    "aliases": [
+      "YIND"
+    ]
+  },
+  {
+    "prefix": "ML-INE",
+    "name": "Brisbane Radio (Indian East) 123.65* (129.25)",
+    "aliases": [
+      "YINE"
+    ]
+  },
+  {
+    "prefix": "ML-INS",
+    "name": "Brisbane Radio (Indian South) 123.2* (129.25)",
+    "aliases": [
+      "YINS"
+    ]
+  },
+  {
+    "prefix": "ML-JAR",
+    "name": "Melbourne (Jarrah) 120.3* (118.2) Control",
+    "aliases": [
+      "YJAR"
+    ]
+  },
+  {
+    "prefix": "ML-KAT",
+    "name": "Melbourne (Katoomba) 133.5* (133.15) Control",
+    "aliases": [
+      "YKAT"
+    ]
+  },
+  {
+    "prefix": "ML-LEA",
+    "name": "Melbourne (Leeman) 122.4* (118.2) Control",
+    "aliases": [
+      "YLEA"
+    ]
+  },
+  {
+    "prefix": "ML-LEO",
+    "name": "Melbourne (Leonora) 133.7* (134.0) Control",
+    "aliases": [
+      "YLEO"
+    ]
+  },
+  {
+    "prefix": "ML-MEK",
+    "name": "Melbourne (Meekatharra) 132.0* (134.0) Control",
+    "aliases": [
+      "YMEK"
+    ]
+  },
+  {
+    "prefix": "ML-MTK",
+    "name": "Melbourne (Mount) 118.95* (134.0) Control",
+    "aliases": [
+      "YMTK"
+    ]
+  },
+  {
+    "prefix": "ML-MUN",
+    "name": "Melbourne (Mungo) 132.6 Control",
+    "aliases": [
+      "YMUN"
+    ]
+  },
+  {
+    "prefix": "ML-MZI",
+    "name": "Melbourne (Menzies) 134.3* (134.0) Control",
+    "aliases": [
+      "YMZI"
+    ]
+  },
+  {
+    "prefix": "ML-NEW",
+    "name": "Melbourne (Newman) 125.4* (134.0) Control",
+    "aliases": [
+      "YNEW"
+    ]
+  },
+  {
+    "prefix": "ML-OLW",
+    "name": "Melbourne (Onslow) 134.0 Control",
+    "aliases": [
+      "YOLW"
+    ]
+  },
+  {
+    "prefix": "ML-OXL",
+    "name": "Melbourne (Oxley) 128.5* (132.6) Control",
+    "aliases": [
+      "YOXL"
+    ]
+  },
+  {
+    "prefix": "ML-PAR",
+    "name": "Melbourne (Paraburdoo) 133.5* (134.0) Control",
+    "aliases": [
+      "YPAR"
+    ]
+  },
+  {
+    "prefix": "ML-PIY",
+    "name": "Melbourne (Pingelly) 133.9* (118.2) Control",
+    "aliases": [
+      "YPIY"
+    ]
+  },
+  {
+    "prefix": "ML-POT",
+    "name": "Melbourne (Port) 127.0* (134.0) Control",
+    "aliases": [
+      "YPOT"
+    ]
+  },
+  {
+    "prefix": "ML-SCR",
+    "name": "Melbourne (Cross) 135.8* (118.2) Control",
+    "aliases": [
+      "YSCR"
+    ]
+  },
+  {
+    "prefix": "ML-SNO",
+    "name": "Melbourne (Snowy) 124.0* (125.0) Control",
+    "aliases": [
+      "YSNO"
+    ]
+  },
+  {
+    "prefix": "ML-TBD",
+    "name": "Melbourne (Tailem Bend) 123.05 Control",
+    "aliases": [
+      "YTBD"
+    ]
+  },
+  {
+    "prefix": "ML-WAR",
+    "name": "Melbourne (Warburton) 124.9* (128.85) Control",
+    "aliases": [
+      "YWAR"
+    ]
+  },
+  {
+    "prefix": "ML-WOL",
+    "name": "Melbourne (Wollongong) 125.0 Control",
+    "aliases": [
+      "YWOL"
+    ]
+  },
+  {
+    "prefix": "ML-WON",
+    "name": "Melbourne (Wonthaggi) 135.3* (122.6) Control",
+    "aliases": [
+      "YWON"
+    ]
+  },
+  {
+    "prefix": "ML-WRA",
+    "name": "Melbourne (Woomera) 132.9* (128.85) Control",
+    "aliases": [
+      "YWRA"
+    ]
+  },
+  {
+    "prefix": "ML-YWE",
+    "name": "Melbourne (Yarrowee) 134.325* (132.6) Control",
+    "aliases": [
+      "YYWE"
+    ]
+  },
+  {
+    "prefix": "MMEX",
+    "name": "Mexico Control"
+  },
+  {
+    "prefix": "MMFR",
+    "name": "Mexico Control"
+  },
+  {
+    "prefix": "MNL",
+    "name": "Manila Control",
+    "aliases": [
+      "RPHI"
+    ]
+  },
+  {
+    "prefix": "MPZL",
+    "name": "Panama Control"
+  },
+  {
+    "prefix": "MSP",
+    "name": "Minneapolis Control",
+    "aliases": [
+      "KZMP"
+    ]
+  },
+  {
+    "prefix": "MTEG",
+    "name": "Port-Au-Prince Control"
+  },
+  {
+    "prefix": "MTY",
+    "name": "Monterrey Control",
+    "aliases": [
+      "MMTY"
+    ]
+  },
+  {
+    "prefix": "MZT",
+    "name": "Mazatlan Control",
+    "aliases": [
+      "MMFO",
+      "MMZT"
+    ]
+  },
+  {
+    "prefix": "NAT",
+    "name": "Shanwick & Gander Control"
+  },
+  {
+    "prefix": "NCRG",
+    "name": "Rarotonga Control"
+  },
+  {
+    "prefix": "NFFF",
+    "name": "Nadi Oceanic"
+  },
+  {
+    "prefix": "NFFJ",
+    "name": "Nadi Control"
+  },
+  {
+    "prefix": "NSFA",
+    "name": "Faleolo Control"
+  },
+  {
+    "prefix": "NSTU",
+    "name": "Pago Pago Control"
+  },
+  {
+    "prefix": "NTTC",
+    "name": "Tahiti Control"
+  },
+  {
+    "prefix": "NTTT",
+    "name": "Tahiti Radio"
+  },
+  {
+    "prefix": "NY",
+    "name": "New York Control",
+    "aliases": [
+      "KZNY"
+    ]
+  },
+  {
+    "prefix": "NZAA",
+    "name": "Auckland Control"
+  },
+  {
+    "prefix": "NZAA-R",
+    "name": "Auckland (Raglan) Control"
+  },
+  {
+    "prefix": "NZCH-B",
+    "name": "Christchurch (Bay) Control",
+    "aliases": [
+      "NZCB"
+    ]
+  },
+  {
+    "prefix": "NZCH-K",
+    "name": "Christchurch (Kaikoura) Control",
+    "aliases": [
+      "NZCK"
+    ]
+  },
+  {
+    "prefix": "NZCH-S",
+    "name": "Christchurch (South) Control",
+    "aliases": [
+      "NZCS"
+    ]
+  },
+  {
+    "prefix": "NZCH-T",
+    "name": "Christchurch (Taranaki) Control",
+    "aliases": [
+      "NZCT"
+    ]
+  },
+  {
+    "prefix": "NZCM",
+    "name": "McMurdo (Mac) Control"
+  },
+  {
+    "prefix": "NZOH",
+    "name": "Ohakea Control"
+  },
+  {
+    "prefix": "NZZO",
+    "name": "Auckland Radio"
+  },
+  {
+    "prefix": "NZZO-E",
+    "name": "East Control"
+  },
+  {
+    "prefix": "NZZO-TSN",
+    "name": "Tasman Control"
+  },
+  {
+    "prefix": "OAK",
+    "name": "Oakland Control",
+    "aliases": [
+      "KZOA"
+    ]
+  },
+  {
+    "prefix": "OAKX",
+    "name": "Kabul Control"
+  },
+  {
+    "prefix": "OBBB",
+    "name": "Bahrain Control"
+  },
+  {
+    "prefix": "OEJD",
+    "name": "Jeddah Control"
+  },
+  {
+    "prefix": "OEJN",
+    "name": "Jeddah Terminal Control"
+  },
+  {
+    "prefix": "OERD",
+    "name": "Riyadh (From FL345) Control"
+  },
+  {
+    "prefix": "OERK",
+    "name": "Riyadh Terminal Control"
+  },
+  {
+    "prefix": "OJAC",
+    "name": "Amman Control"
+  },
+  {
+    "prefix": "OKAC",
+    "name": "Kuwait Control"
+  },
+  {
+    "prefix": "OLBB",
+    "name": "Beirut Control"
+  },
+  {
+    "prefix": "OMAE",
+    "name": "U.A.E Control"
+  },
+  {
+    "prefix": "OO",
+    "name": "Oakland Oceanic"
+  },
+  {
+    "prefix": "OOMM",
+    "name": "Muscat Control"
+  },
+  {
+    "prefix": "OOR",
+    "name": "Oakland Oceanic"
+  },
+  {
+    "prefix": "OORO",
+    "name": "Oakland Oceanic"
+  },
+  {
+    "prefix": "OPKR",
+    "name": "Karachi Control"
+  },
+  {
+    "prefix": "OPKR-C",
+    "name": "Karachi Control"
+  },
+  {
+    "prefix": "OPKR-E",
+    "name": "Karachi Control"
+  },
+  {
+    "prefix": "OPKR-S",
+    "name": "Karachi Control"
+  },
+  {
+    "prefix": "OPKR-W",
+    "name": "Karachi Control"
+  },
+  {
+    "prefix": "OPLR",
+    "name": "Lahore Control"
+  },
+  {
+    "prefix": "OPLR-E",
+    "name": "Lahore Control"
+  },
+  {
+    "prefix": "OPLR-S",
+    "name": "Lahore Control"
+  },
+  {
+    "prefix": "OPLR-W",
+    "name": "Lahore Control"
+  },
+  {
+    "prefix": "ORBB",
+    "name": "Baghdad Control"
+  },
+  {
+    "prefix": "ORD",
+    "name": "Chicago Control"
+  },
+  {
+    "prefix": "OSTT",
+    "name": "Damascus Control"
+  },
+  {
+    "prefix": "OTDF",
+    "name": "Doha Control"
+  },
+  {
+    "prefix": "OYSC",
+    "name": "Sanaa Control"
+  },
+  {
+    "prefix": "PAR",
+    "name": "Paris Control",
+    "aliases": [
+      "LFFF"
+    ]
+  },
+  {
+    "prefix": "PAZA",
+    "name": "Anchorage Control"
+  },
+  {
+    "prefix": "PLUTO",
+    "name": "Pluto Control",
+    "aliases": [
+      "LLPL",
+      "LLPT"
+    ]
+  },
+  {
+    "prefix": "PRC",
+    "name": "Beijing Control"
+  },
+  {
+    "prefix": "RJBG",
+    "name": "Kobe Control"
+  },
+  {
+    "prefix": "RJDG",
+    "name": "Fukuoka Control"
+  },
+  {
+    "prefix": "RJJJ",
+    "name": "Tokyo Oceanic"
+  },
+  {
+    "prefix": "RJTG",
+    "name": "Tokyo Control"
+  },
+  {
+    "prefix": "RKDA",
+    "name": "Incheon Control"
+  },
+  {
+    "prefix": "RKRR",
+    "name": "Incheon Control"
+  },
+  {
+    "prefix": "RU-CEN",
+    "name": "Asia-Center"
+  },
+  {
+    "prefix": "RU-ERC",
+    "name": "Eastern Russia Control"
+  },
+  {
+    "prefix": "RU-ESC",
+    "name": "Siberia Control"
+  },
+  {
+    "prefix": "RU-NWC",
+    "name": "North Western Russia Control"
+  },
+  {
+    "prefix": "RU-SC",
+    "name": "Caucasus-Radar Control"
+  },
+  {
+    "prefix": "RU-WRC",
+    "name": "Western Russia Control"
+  },
+  {
+    "prefix": "RU-WSC",
+    "name": "Western Siberia Control"
+  },
+  {
+    "prefix": "SACF",
+    "name": "Cordoba Control"
+  },
+  {
+    "prefix": "SACO",
+    "name": "Cordoba Control"
+  },
+  {
+    "prefix": "SAEF",
+    "name": "Ezeiza Control"
+  },
+  {
+    "prefix": "SAM-E",
+    "name": "East Control"
+  },
+  {
+    "prefix": "SAM-N",
+    "name": "South America Control North"
+  },
+  {
+    "prefix": "SAM-S",
+    "name": "South America Control South"
+  },
+  {
+    "prefix": "SAM-W",
+    "name": "South America Control West"
+  },
+  {
+    "prefix": "SAME",
+    "name": "Mendoza Control"
+  },
+  {
+    "prefix": "SAMF",
+    "name": "Mendoza Control"
+  },
+  {
+    "prefix": "SARE",
+    "name": "Resistencia Control"
+  },
+  {
+    "prefix": "SARR",
+    "name": "Resistencia Control"
+  },
+  {
+    "prefix": "SAVC",
+    "name": "Comodoro Rivadavia Control"
+  },
+  {
+    "prefix": "SAVF",
+    "name": "Comodoro Rivadavia Control"
+  },
+  {
+    "prefix": "SBAO",
+    "name": "Atlantico Control"
+  },
+  {
+    "prefix": "SBAZ",
+    "name": "Amazonico Control"
+  },
+  {
+    "prefix": "SBBS",
+    "name": "Brasilia Control"
+  },
+  {
+    "prefix": "SBCW",
+    "name": "Curitiba Control"
+  },
+  {
+    "prefix": "SBRE",
+    "name": "Recife Control"
+  },
+  {
+    "prefix": "SCCZ",
+    "name": "Punta Arenas Control"
+  },
+  {
+    "prefix": "SCEZ",
+    "name": "Santiago Control"
+  },
+  {
+    "prefix": "SCFZ",
+    "name": "Antofagasta Control"
+  },
+  {
+    "prefix": "SCIZ",
+    "name": "Pascua Control"
+  },
+  {
+    "prefix": "SCL",
+    "name": "Scottish Control"
+  },
+  {
+    "prefix": "SCO",
+    "name": "Scottish Control",
+    "aliases": [
+      "EGPX"
+    ]
+  },
+  {
+    "prefix": "SCTZ",
+    "name": "Puerto Montt Control"
+  },
+  {
+    "prefix": "SEA",
+    "name": "Seattle Control",
+    "aliases": [
+      "KZSE"
+    ]
+  },
+  {
+    "prefix": "SEFG",
+    "name": "Guayaquil Control"
+  },
+  {
+    "prefix": "SF",
+    "name": "San Francisco Oceanic",
+    "aliases": [
+      "KZA1"
+    ]
+  },
+  {
+    "prefix": "SFR",
+    "name": "San Francisco Oceanic"
+  },
+  {
+    "prefix": "SFRO",
+    "name": "San Francisco Oceanic"
+  },
+  {
+    "prefix": "SGFA",
+    "name": "Asuncion Control"
+  },
+  {
+    "prefix": "SHOLET",
+    "name": "Tel Aviv Control"
+  },
+  {
+    "prefix": "SJU",
+    "name": "San Juan Control",
+    "aliases": [
+      "TJZS"
+    ]
+  },
+  {
+    "prefix": "SKCL",
+    "name": "Cali (Up To FL245) Control"
+  },
+  {
+    "prefix": "SKEC",
+    "name": "Barranquilla Control"
+  },
+  {
+    "prefix": "SKED",
+    "name": "Bogota Control"
+  },
+  {
+    "prefix": "SKMD",
+    "name": "Cali (Up To FL245) Control"
+  },
+  {
+    "prefix": "SLC",
+    "name": "Salt Lake Control",
+    "aliases": [
+      "KZLC"
+    ]
+  },
+  {
+    "prefix": "SLLF",
+    "name": "La Paz Control"
+  },
+  {
+    "prefix": "SMPM",
+    "name": "Paramaribo Control"
+  },
+  {
+    "prefix": "SOOO",
+    "name": "Cayenne Control"
+  },
+  {
+    "prefix": "SP-E",
+    "name": "Lima North East Control",
+    "aliases": [
+      "SPI3"
+    ]
+  },
+  {
+    "prefix": "SP-N",
+    "name": "Lima North Control",
+    "aliases": [
+      "SPI1"
+    ]
+  },
+  {
+    "prefix": "SP-NE",
+    "name": "Lima North East Control"
+  },
+  {
+    "prefix": "SP-S",
+    "name": "Lima South Control",
+    "aliases": [
+      "SPI2"
+    ]
+  },
+  {
+    "prefix": "SUEO",
+    "name": "Montevideo Control"
+  },
+  {
+    "prefix": "SVZM",
+    "name": "Maiquetia Control"
+  },
+  {
+    "prefix": "SYGC",
+    "name": "Georgetown Control"
+  },
+  {
+    "prefix": "TEH",
+    "name": "Tehran Control",
+    "aliases": [
+      "OIIX"
+    ]
+  },
+  {
+    "prefix": "TIP",
+    "name": "Tripoli Control",
+    "aliases": [
+      "HLLL"
+    ]
+  },
+  {
+    "prefix": "TNCF",
+    "name": "Curaçao Control"
+  },
+  {
+    "prefix": "TPE",
+    "name": "Taipei Control",
+    "aliases": [
+      "RCAA"
+    ]
+  },
+  {
+    "prefix": "TTZO",
+    "name": "Piarco Oceanic"
+  },
+  {
+    "prefix": "TTZP",
+    "name": "Piarco Control"
+  },
+  {
+    "prefix": "UAAA",
+    "name": "Almaty Control"
+  },
+  {
+    "prefix": "UACN",
+    "name": "Astana Control"
+  },
+  {
+    "prefix": "UAII",
+    "name": "Shymkent Control"
+  },
+  {
+    "prefix": "UAM",
+    "name": "Guam Control"
+  },
+  {
+    "prefix": "UATT",
+    "name": "Aktobe Control"
+  },
+  {
+    "prefix": "UBBA",
+    "name": "Baku Control"
+  },
+  {
+    "prefix": "UCFM",
+    "name": "Bishkek Control"
+  },
+  {
+    "prefix": "UCFO",
+    "name": "Osh Control"
+  },
+  {
+    "prefix": "UEEE",
+    "name": "Yakutsk Control"
+  },
+  {
+    "prefix": "UGEE",
+    "name": "Yerevan Control",
+    "aliases": [
+      "UDDD"
+    ]
+  },
+  {
+    "prefix": "UGGG",
+    "name": "Tbilisi Control"
+  },
+  {
+    "prefix": "UHHH",
+    "name": "Khabarovsk Control"
+  },
+  {
+    "prefix": "UHMM",
+    "name": "Magadan Control"
+  },
+  {
+    "prefix": "UIII",
+    "name": "Irkutsk Control"
+  },
+  {
+    "prefix": "UKBV",
+    "name": "Kyiv Control"
+  },
+  {
+    "prefix": "UKDV",
+    "name": "Dnipro Control"
+  },
+  {
+    "prefix": "UKFV",
+    "name": "Simferopol Control"
+  },
+  {
+    "prefix": "UKLV",
+    "name": "Lviv Control"
+  },
+  {
+    "prefix": "UKOV",
+    "name": "Odesa Control"
+  },
+  {
+    "prefix": "UKR",
+    "name": "Ukraine Control"
+  },
+  {
+    "prefix": "ULLL",
+    "name": "Peterburg Control"
+  },
+  {
+    "prefix": "UMKK",
+    "name": "Kaliningrad Control"
+  },
+  {
+    "prefix": "UMMM",
+    "name": "Minsk Control"
+  },
+  {
+    "prefix": "UMMV",
+    "name": "Minsk ACC sector West"
+  },
+  {
+    "prefix": "UNKL",
+    "name": "Krasnoyarsk Control"
+  },
+  {
+    "prefix": "UNNT",
+    "name": "Novosibirsk Control"
+  },
+  {
+    "prefix": "URRV",
+    "name": "Rostov Control"
+  },
+  {
+    "prefix": "USSV",
+    "name": "Ural Control"
+  },
+  {
+    "prefix": "USTV",
+    "name": "Tyumen Control"
+  },
+  {
+    "prefix": "UTAA",
+    "name": "Ashgabat Control"
+  },
+  {
+    "prefix": "UTAK",
+    "name": "Turkmenbashi Control"
+  },
+  {
+    "prefix": "UTAT",
+    "name": "Dashoguz Control"
+  },
+  {
+    "prefix": "UTAV",
+    "name": "Turkmenabat Control"
+  },
+  {
+    "prefix": "UTDD",
+    "name": "Dushanbe Control"
+  },
+  {
+    "prefix": "UUWV",
+    "name": "Moscow Control"
+  },
+  {
+    "prefix": "UWWW",
+    "name": "Samara Control"
+  },
+  {
+    "prefix": "UZSD",
+    "name": "Samarkand Control"
+  },
+  {
+    "prefix": "UZTR",
+    "name": "Tashkent Control"
+  },
+  {
+    "prefix": "VAAH",
+    "name": "Mumbai Control"
+  },
+  {
+    "prefix": "VABB",
+    "name": "Mumbai Control"
+  },
+  {
+    "prefix": "VABF",
+    "name": "Mumbai Control"
+  },
+  {
+    "prefix": "VANP",
+    "name": "Mumbai Control"
+  },
+  {
+    "prefix": "VCCF",
+    "name": "Colombo Control"
+  },
+  {
+    "prefix": "VCL",
+    "name": "Mekong Control",
+    "aliases": [
+      "XVCL"
+    ]
+  },
+  {
+    "prefix": "VDPF",
+    "name": "Phnom Penh Control"
+  },
+  {
+    "prefix": "VEBN",
+    "name": "Kolkata Control"
+  },
+  {
+    "prefix": "VECC",
+    "name": "Kolkata Control"
+  },
+  {
+    "prefix": "VECF",
+    "name": "Kolkata Control"
+  },
+  {
+    "prefix": "VEGF",
+    "name": "Guwahati Control"
+  },
+  {
+    "prefix": "VGFR",
+    "name": "Dhaka Control"
+  },
+  {
+    "prefix": "VIAR",
+    "name": "Delhi Control"
+  },
+  {
+    "prefix": "VIDF",
+    "name": "Delhi Control"
+  },
+  {
+    "prefix": "VIJP",
+    "name": "Delhi Control"
+  },
+  {
+    "prefix": "VILK",
+    "name": "Delhi Control"
+  },
+  {
+    "prefix": "VIUX",
+    "name": "Delhi Control"
+  },
+  {
+    "prefix": "VLVT",
+    "name": "Vientiane Control"
+  },
+  {
+    "prefix": "VNSM",
+    "name": "Kathmandu Control"
+  },
+  {
+    "prefix": "VOBG",
+    "name": "Chennai Control"
+  },
+  {
+    "prefix": "VOBL",
+    "name": "Chennai Control"
+  },
+  {
+    "prefix": "VOCI",
+    "name": "Chennai Control"
+  },
+  {
+    "prefix": "VOHS",
+    "name": "Chennai Control"
+  },
+  {
+    "prefix": "VOMF",
+    "name": "Chennai Control"
+  },
+  {
+    "prefix": "VOML",
+    "name": "Chennai Control"
+  },
+  {
+    "prefix": "VOMM",
+    "name": "Chennai Control"
+  },
+  {
+    "prefix": "VOTV",
+    "name": "Chennai Control"
+  },
+  {
+    "prefix": "VRMF",
+    "name": "Male Control"
+  },
+  {
+    "prefix": "VTBB",
+    "name": "Bangkok Control"
+  },
+  {
+    "prefix": "VVHM",
+    "name": "Ho Chi Minh Control"
+  },
+  {
+    "prefix": "VVHN",
+    "name": "Ha Noi Control"
+  },
+  {
+    "prefix": "VYYF",
+    "name": "Yangon Control"
+  },
+  {
+    "prefix": "WAAF",
+    "name": "Ujung Pandang Control"
+  },
+  {
+    "prefix": "WAS",
+    "name": "Washington Control"
+  },
+  {
+    "prefix": "WBFC",
+    "name": "Kota Kinabalu Control"
+  },
+  {
+    "prefix": "WBGG",
+    "name": "Kuching Control"
+  },
+  {
+    "prefix": "WIIF",
+    "name": "Jakarta Control"
+  },
+  {
+    "prefix": "WMFC",
+    "name": "Kuala Lumpur Control"
+  },
+  {
+    "prefix": "WPG",
+    "name": "Winnipeg Control",
+    "aliases": [
+      "CZWG"
+    ]
+  },
+  {
+    "prefix": "WSJC",
+    "name": "Singapore Control"
+  },
+  {
+    "prefix": "ZAK",
+    "name": "Oakland Oceanic",
+    "aliases": [
+      "KZAK"
+    ]
+  },
+  {
+    "prefix": "ZAN",
+    "name": "Arctic Control"
+  },
+  {
+    "prefix": "ZBAA",
+    "name": "Beijing Control"
+  },
+  {
+    "prefix": "ZBHH",
+    "name": "Hohhot Control"
+  },
+  {
+    "prefix": "ZBPE",
+    "name": "Beijing Control"
+  },
+  {
+    "prefix": "ZGGG",
+    "name": "Guangzhou Control"
+  },
+  {
+    "prefix": "ZGHA",
+    "name": "Changsha Control"
+  },
+  {
+    "prefix": "ZGNN",
+    "name": "Nanning Control"
+  },
+  {
+    "prefix": "ZGZU",
+    "name": "Guangzhou Control"
+  },
+  {
+    "prefix": "ZHCC",
+    "name": "Zhengzhou Control"
+  },
+  {
+    "prefix": "ZHHH",
+    "name": "Wuhan Control"
+  },
+  {
+    "prefix": "ZHWH",
+    "name": "Wuhan Control"
+  },
+  {
+    "prefix": "ZJSA",
+    "name": "Sanya Control"
+  },
+  {
+    "prefix": "ZJSY",
+    "name": "Sanya Control"
+  },
+  {
+    "prefix": "ZKKP",
+    "name": "Pyongyang Control"
+  },
+  {
+    "prefix": "ZLHW",
+    "name": "Lanzhou Control"
+  },
+  {
+    "prefix": "ZLLL",
+    "name": "Lanzhou Control"
+  },
+  {
+    "prefix": "ZLXY",
+    "name": "Xi'an Control"
+  },
+  {
+    "prefix": "ZMA",
+    "name": "Miami Control"
+  },
+  {
+    "prefix": "ZMO",
+    "name": "Miami Control"
+  },
+  {
+    "prefix": "ZMUB",
+    "name": "Ulaanbaatar Control"
+  },
+  {
+    "prefix": "ZPKM",
+    "name": "Kunming Control"
+  },
+  {
+    "prefix": "ZPPP",
+    "name": "Kunming Control"
+  },
+  {
+    "prefix": "ZSAM",
+    "name": "Xiamen Control"
+  },
+  {
+    "prefix": "ZSCN",
+    "name": "Nanchang Control"
+  },
+  {
+    "prefix": "ZSHA",
+    "name": "Shanghai Control"
+  },
+  {
+    "prefix": "ZSJN",
+    "name": "Jinan Control"
+  },
+  {
+    "prefix": "ZSOF",
+    "name": "Hefei Control"
+  },
+  {
+    "prefix": "ZSQD",
+    "name": "Qingdao Control"
+  },
+  {
+    "prefix": "ZSSS",
+    "name": "Shanghai Control"
+  },
+  {
+    "prefix": "ZUGY",
+    "name": "Guiyang Control"
+  },
+  {
+    "prefix": "ZULS",
+    "name": "Lhasa Control"
+  },
+  {
+    "prefix": "ZUUU",
+    "name": "Chengdu Control"
+  },
+  {
+    "prefix": "ZVR",
+    "name": "Vancouver Control"
+  },
+  {
+    "prefix": "ZWG",
+    "name": "Winnipeg Control"
+  },
+  {
+    "prefix": "ZWUQ",
+    "name": "Urumqi Control"
+  },
+  {
+    "prefix": "ZWWW",
+    "name": "Urumqi Control"
+  },
+  {
+    "prefix": "ZYHB",
+    "name": "Harbin Control"
+  },
+  {
+    "prefix": "ZYSH",
+    "name": "Shenyang Control"
+  },
+  {
+    "prefix": "ZYTL",
+    "name": "Dalian Control"
+  },
+  {
+    "prefix": "ZYTX",
+    "name": "Shenyang Control"
+  }
+]
